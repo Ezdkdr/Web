@@ -1,6 +1,7 @@
 # Cybersecurity Awareness Training (SPA)
 
 A React-based Single Page Application for cybersecurity awareness training, designed for small businesses in Canada.
+Updated.
 
 ## Features
 - **Interactive Training Modules**: 8 sections covering phishing, passwords, Canadian privacy laws, and more.
